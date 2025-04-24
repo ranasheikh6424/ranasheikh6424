@@ -1,40 +1,27 @@
-<h1 align="center">Hi there 👋, I'm Rana</h1>
-<h3 align="center">A passionate Flutter App Developer from Bangladesh</h3>
+![Flutter Developer](https://i.ibb.co.com/YF5s1Hfr/Flutter-Developer.jpg)
 
-<p align="center">
-  <img src="https://your-image-url.jpg" alt="Rana's Profile Picture" width="200" style="border-radius:50%;" />
-</p>
+### 👨‍💻 Flutter Developer  
+Crafting beautiful, high-performance mobile apps using Flutter & Dart for Android and iOS platforms.
 
-- 🔭 I’m currently working on **Flutter-based mobile applications**
-- 🌱 I’m currently learning **Firebase, REST APIs, and Clean Architecture**
-- 👯 I’m looking to collaborate on **open-source Flutter projects**
-- 🤝 I’m looking for help with **enhancing my development skills**
-- 💬 Ask me about **Flutter, Dart, and mobile app development**
-- 📫 How to reach me: **rana6424sheikh@gmail.com**
-- 📱 Phone: **01613-47581**
-- ⚡ Fun fact: **I love creating user-friendly mobile app interfaces**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61558521165634) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rana6424sheikh@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
-### 🛠️ Languages and Tools:
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GetX-purple?style=for-the-badge" alt="GetX" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ranasheikh6424&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ranasheikh6424&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranasheikh6424&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ranasheikh6424&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rana6424sheikh&show_icons=true&theme=tokyonight" alt="Rana's GitHub Stats" />
-</p>
-
----
-
-<p align="center">Thanks for visiting my profile! Let's connect and build amazing apps together 🚀</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
